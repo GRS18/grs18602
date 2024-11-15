@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="Day3_Testng.TestParameters"/>
+      <parametre name="un" value = "Girish"/>
+      <parametre name="pw" value = "Grs#1234"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
